@@ -18,7 +18,7 @@ var question = [
      prompt: "What happened to Roses Boyfriend Myles",
     responses:["He turned out to be a goat all along","They got married on the series finalie","She ended it after him and Blanch slept together", "He went into hiding becasue the mob was after him"],
     answer:3,
-     gif:"./images/giphy (5).gif"
+     gif:"./images/giphy (2).gif"
      },
      {
      prompt: "Where did the Golden Girls take place",

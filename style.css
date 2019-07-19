@@ -16,3 +16,14 @@ body{
 #gameboard{
  background-color: #ffd1f6;
 }
+
+#footer{
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  
+  width: 100%;
+  color:goldenrod;
+  background-color: #ffd1f6;
+  text-align: center;
+}
