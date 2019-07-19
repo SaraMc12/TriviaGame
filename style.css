@@ -1,0 +1,56 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/513942.jpg);
+    font-family: 'Lobster', cursive;
+    color:goldenrod
+}
+
+h1{
+    text-align: center;
+}
+
+#button1{
+    height: 100px;
+    width: 100px;
+
+}
+  
+#button2{
+    height: 100px;
+    width: 100px;
+
+}
+
+#button3{
+    height: 100px;
+    width: 100px;
+
+}
+
+#pic1{
+        
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    
+    
+}
+
+#q{
+    color:red;
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+#answer{
+    background-color:gray;
+    text-align: center;
+}
+.a{
+    color: green;
+    margin-right: 10px;
+    padding: 5px;
+    font-size: 18px;
+
+}
